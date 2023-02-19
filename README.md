@@ -10,9 +10,12 @@ En el front-end, suelo trabajar con las siguientes tecnologías:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=flat-square" />
+
+
 </p>
 
 ### Back-end
