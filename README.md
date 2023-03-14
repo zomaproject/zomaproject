@@ -1,11 +1,11 @@
-# Zomaproject - Desarrollador Full Stack
+# Zomaproject - Desarrollador Full Stack 
 
 
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack, aunque mi especialidad es el backend. En este repositorio encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
 
+[![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=social)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
-Coding Hours: [![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
 
 ## Tecnologías
