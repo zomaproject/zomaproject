@@ -4,9 +4,14 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack, aunque mi especialidad es el backend. En este repositorio encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
 
+### Statistics
+
+#### Tiempo total 
 [![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=social)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
+### Lenguages usados en los ultimos 30 días
 
+<img src="https://wakatime.com/share/@zomaproject/506abc7a-38b8-44d7-b9f4-bf35a127a128.svg" alt="descripcion de la imagen" width="50%">
 
 ## Tecnologías
 
