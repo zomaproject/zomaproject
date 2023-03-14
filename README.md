@@ -1,18 +1,14 @@
-# Zomaproject - Desarrollador Full Stack 
+# Zomaproject - Desarrollador Full Stack
 
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack, aunque mi especialidad es el backend. En este perfil encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
 
+## Statistics
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack, aunque mi especialidad es el backend. En este repositorio encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
+### Tiempo total
 
-### Statistics
-
-#### Tiempo total 
 [![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=social)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomaproject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Tecnologías
 
@@ -26,7 +22,6 @@ En el front-end, suelo trabajar con las siguientes tecnologías:
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=flat-square" />
-
 
 </p>
 
