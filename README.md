@@ -6,7 +6,7 @@
 
 ### Tiempo total
 
-[![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=social)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
+[![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=for-the-badge)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomaproject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,11 +17,11 @@
 En el front-end, suelo trabajar con las siguientes tecnologías:
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=for-the-badge" />
 
 </p>
 
@@ -30,10 +30,10 @@ En el front-end, suelo trabajar con las siguientes tecnologías:
 En el back-end, suelo trabajar con las siguientes tecnologías:
 
 <p>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Otros lenguajes
@@ -41,9 +41,9 @@ En el back-end, suelo trabajar con las siguientes tecnologías:
 También tengo experiencia en los siguientes lenguajes de programación:
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
 ## Proyectos Destacados
