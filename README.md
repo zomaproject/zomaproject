@@ -52,15 +52,15 @@ Aquí se presentan algunos de mis proyectos más destacados en GitHub.
 
 ### Projecto 1
 
-![Imagen del proyecto 1](https://via.placeholder.com/500x200)
+![Imagen del proyecto 1](https://res.cloudinary.com/dugymmik7/image/upload/v1685467733/Proyectos/Screenshot_2023-05-30_112525_imgkrv.png)
 
-Descripción breve del proyecto 1.
+
 
 ### Proyecto 2
 
-![Imagen del proyecto 2](https://via.placeholder.com/500x200)
+![Imagen del proyecto 2](https://res.cloudinary.com/dugymmik7/image/upload/v1685467733/Proyectos/Screenshot_2023-05-30_112807_dymqet.png)
 
-Descripción breve del proyecto 2.
+
 
 ## Cómo Contribuir
 
