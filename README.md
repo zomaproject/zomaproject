@@ -21,7 +21,7 @@ En el front-end, suelo trabajar con las siguientes tecnologías:
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=for-the-badge" />
+  <img alt="Ant Desing" src="https://img.shields.io/badge/-Ant_Design-0170FE?logo=ant-design&logoColor=white&style=for-the-badge" />
 
 </p>
 
