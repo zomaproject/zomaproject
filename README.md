@@ -53,6 +53,11 @@ También tengo experiencia en los siguientes lenguajes de programación:
 ## Proyectos Destacados
 
 Aquí se presentan algunos de mis proyectos más destacados en GitHub.
+### Ultimo projecto (construyendo)
+
+Un E-Comerce haciendo uso de microservicios y arquitectura limpia
+
+![Imagel Utimo proyecto](https://res.cloudinary.com/dugymmik7/image/upload/v1703613851/Github/Screenshot_2023-12-26_120330_vbslzl.png)
 
 ### Projecto 1
 
