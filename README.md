@@ -1,10 +1,10 @@
 # Zomaproject - Desarrollador Full Stack
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack, aunque mi especialidad es el backend. En este perfil encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack. En este perfil encontrarás algunos de mis proyectos y contribuciones en el mundo de la programación.
 
 ## Statistics
 
-### Tiempo total
+### Tiempo total programando (desde que utilizo esta herramienta)
 
 [![wakatime](https://wakatime.com/badge/user/49d88894-f5a0-4348-ace4-038ceb5bc89e.svg?style=for-the-badge)](https://wakatime.com/@49d88894-f5a0-4348-ace4-038ceb5bc89e)
 
@@ -30,11 +30,15 @@ En el front-end, suelo trabajar con las siguientes tecnologías:
 En el back-end, suelo trabajar con las siguientes tecnologías:
 
 <p>
+  
+  
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+ 
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ### Otros lenguajes
 
