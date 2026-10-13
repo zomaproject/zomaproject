@@ -105,18 +105,3 @@ Proyectos que construí desde cero como único desarrollador (más de 2,000 comm
 ## Proyecto personal: Habit Tracker
 
 App para llevar **finanzas** y **entrenamiento**, 100 % serverless: SPA en React 19 sobre S3 + CloudFront, API .NET 10 en **Lambda** detrás de API Gateway con Cognito, **DynamoDB** single-table y rutinas de gimnasio generadas con IA en **Amazon Bedrock**. La respuesta del modelo se valida contra el catálogo antes de guardarse.
-
-<details>
-<summary>Proyectos anteriores</summary>
-
-<br/>
-
-**E-commerce con microservicios y arquitectura limpia** (2023)
-
-<img alt="E-commerce con microservicios" src="https://res.cloudinary.com/dugymmik7/image/upload/v1703613851/Github/Screenshot_2023-12-26_120330_vbslzl.png" width="800" />
-
-<img alt="Proyecto anterior 1" src="https://res.cloudinary.com/dugymmik7/image/upload/v1685467733/Proyectos/Screenshot_2023-05-30_112525_imgkrv.png" width="800" />
-
-<img alt="Proyecto anterior 2" src="https://res.cloudinary.com/dugymmik7/image/upload/v1685467733/Proyectos/Screenshot_2023-05-30_112807_dymqet.png" width="800" />
-
-</details>
