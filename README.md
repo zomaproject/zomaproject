@@ -95,13 +95,13 @@ Aplicación personal para llevar **finanzas** y **entrenamiento en el gimnasio**
 - 🏋️ **Entrenamiento:** catálogo de máquinas, rutinas de lunes a viernes generadas con IA (Amazon Bedrock), registro por serie con sugerencia de peso por doble progresión, rachas y peso corporal.
 
 ```mermaid
-flowchart LR
+flowchart TB
     U[Navegador] --> CF[CloudFront + S3<br/>SPA React 19]
     U -->|JWT| GW[API Gateway<br/>autorizador Cognito]
     CF -.->|OIDC + PKCE| COG[Cognito]
     GW --> L[Lambda<br/>.NET 10 Minimal API]
     L --> DDB[(DynamoDB<br/>single table)]
-    L --> BR[Bedrock<br/>generación de rutinas]
+    L --> BR[Bedrock<br/>rutinas con IA]
 ```
 
 **Decisiones destacadas**
@@ -125,9 +125,3 @@ flowchart LR
 <img alt="Proyecto anterior 2" src="https://res.cloudinary.com/dugymmik7/image/upload/v1685467733/Proyectos/Screenshot_2023-05-30_112807_dymqet.png" width="800" />
 
 </details>
-
-## Estadísticas
-
-<p>
-  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomaproject&layout=compact&theme=transparent&hide_border=true" />
-</p>
